@@ -1,5 +1,12 @@
 # Auto Insurance Comparison Agent
 
+## Prompt
+
+### "Build an agent for auto insurance where people looking for best insurance and deals which can save hours of time and phone calls, can we do with react and typescript"
+
+<img width="1440" height="755" alt="image" src="https://github.com/user-attachments/assets/afa4ba49-7c69-4dcf-bbe5-9b6dc4294ae9" />
+
+
 A production-quality React + TypeScript application for comparing auto insurance quotes. Built with Vite, Tailwind CSS v3, and ShadCN UI components.
 
 ## 🎯 Features
